@@ -1,0 +1,7 @@
+ fname=request.POST.get('fname')
+        mname=request.POST.get('mname')
+        lname=request.POST.get('lname')
+        age=request.POST.get('age')
+        mob_no=request.POST.get('mob_no')
+        dob=request.POST.get('dob')
+       views.py
